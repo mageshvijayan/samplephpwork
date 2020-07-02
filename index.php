@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Shalini even your labs are due, kindly share at earliest</h1>
+<h1>Hi Guys good day to every one.</h1>
 
 <?php
 echo "version :Ver 1.0";
